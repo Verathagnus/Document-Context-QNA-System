@@ -8,7 +8,7 @@ ollama serve
 ollama pull llama3.1:8b
 ```
 2. Run the Streamlit application:
-   ```sh
-   pip install -r requirements.txt
-   streamlit run streamlit_app.py
-   ```
+```sh
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
